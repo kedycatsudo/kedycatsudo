@@ -34,7 +34,7 @@
 > _Check it out for tasty code and tasty ideas!_
 
 #### [My Portfolio Webisite](https://kedycatsudo.github.io/portfolio/)
-My portfolio website.
+> My portfolio website.
 ---
 
 ### 🕸️ Social & Contact
