@@ -20,7 +20,7 @@
 ---
 
 ### 🔥 Top Skills
-- **Languages:** JavaScript, Python, Java
+- **Languages:** JavaScript, Python, Java, C
 - **Frameworks:** React.js, Node.js, Express.js, Django
 - **Systems:** Linux,Windows
 - **Specialties:** Full Stack Development, Cybersecurity & PenTesting
