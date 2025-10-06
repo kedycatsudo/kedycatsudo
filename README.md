@@ -20,9 +20,9 @@
 ---
 
 ### 🔥 Top Skills
-- **Languages:** JavaScript, Python, Java, HTML, CSS
-- **Frameworks:** React.js, Node.js, Next.js, Nest.js, Django
-- **Systems:** Linux
+- **Languages:** JavaScript, Python, Java
+- **Frameworks:** React.js, Node.js, Express.js, Django
+- **Systems:** Linux,Windows
 - **Specialties:** Full Stack Development, Cybersecurity & PenTesting
 
 ---
