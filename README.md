@@ -12,7 +12,7 @@
 ### 🕵️‍♂️ About Me
 
 - **Junior Software Developer** | Full-Stack Training @ TripleTen  
-- **Tech Stack:** JavaScript, Python, React.js, Node.js, Linux  
+- **Tech Stack:** JavaScript, Python, Java, C, React.js, Node.js, Linux  
 - **Cybersecurity Pentester** — I believe in keeping things secure and understanding the risks beneath the surface.
 - **Sous Chef** — I love experimenting in the kitchen, crafting interesting and delicious dishes.
 - **Not a sports watcher** but an enthusiastic player!
