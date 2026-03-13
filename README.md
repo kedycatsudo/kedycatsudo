@@ -12,8 +12,8 @@
 ### 🕵️‍♂️ About Me
 
 - **Software Developer** | Full-Stack @ TripleTen @C.S from Turkey.
-- **Backend:** JavaScript, Python, Java, C, Node.js
-- **Frontend:** JavaScript, React.js, Node.js, Next.js   
+- **Backend:** JavaScript, Python, Java, C, Node.js, Nest.js
+- **Frontend:** JavaScript, React.js, Next.js   
 - **Tech Stack:** TypeScript, MERN, Linux, AWS Console, Google Cloud operation, Cloud deployment, Docker, CI/CD Pipelines 
 - **Cybersecurity Pentester** — I believe in keeping things secure and understanding the risks beneath the surface.
 - **Sous Chef** — I love experimenting in the kitchen, crafting interesting and delicious dishes.
